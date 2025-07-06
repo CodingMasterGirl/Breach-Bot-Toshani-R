@@ -17,13 +17,4 @@ This is the Starter Code for Breach Bot!
 *If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
 - I used the videos that were provided from GWC Pathways so a HUGE shoutout to them for this amazing project! 
 
----
-
-## File Overview
-
-### ← README.md
-
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
-
-### ← main.py
-This is where you will write your main program.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
